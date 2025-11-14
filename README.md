@@ -6,8 +6,11 @@
 **Atividade2:(Atividade.xlsx) Este arquivo apresenta uma tabela com informações de municípios e anos, em que, utilizamos fórmulas como Maximoses,Corresp ,índice e cont valores para respondermos perguntas referente a tabela**<img width="1180" height="433" alt="image" src="https://github.com/user-attachments/assets/c1ff866f-8553-4a3c-8ddb-6530aeae4e71" />
 
 #
-**Atividade3:(Anos de Experiência vs Salário) Este relatório apresenta um gráfico de dispersão que compara os anos de experiência no eixo X com o salário no eixo Y . Cada ponto no gráfico representa o tempo da experiência e seu respectivo salário**
+**Atividade3:(Anos de Experiência vs Salário) Este relatório apresenta um gráfico de dispersão que compara os anos de experiência no eixo X com o salário no eixo Y . Cada ponto no gráfico representa o tempo da experiência e seu respectivo salário**<img width="934" height="534" alt="image" src="https://github.com/user-attachments/assets/c4d05595-4a22-4daf-b942-d583a6d00e81" />
+
 #
-**Atividade4:(Apresentação Comercial) Esta foto apresenta um Mapa Mental que foi realizado em grupo nas primeiras semanas de aulas, com intuito de nos conhecermos melhor e demonstrar o nosso conhecimento do que é Gestão da Produção Industrial**
+**Atividade4:(Apresentação Comercial) Esta foto apresenta um Mapa Mental que foi realizado em grupo nas primeiras semanas de aulas, com intuito de nos conhecermos melhor e demonstrar o nosso conhecimento do que é Gestão da Produção Industrial**<img width="978" height="471" alt="image" src="https://github.com/user-attachments/assets/a384ebab-e6b6-416f-aaad-5327fbdda74e" />
+
 #
-**Atividade5:(Atividade PB) Este arquivo é um Dashboard interativo sobre o Valor FOB de cada região do Brasil**
+**Atividade5:(Atividade PB) Este arquivo é um Dashboard interativo sobre o Valor FOB de cada região do Brasil**<img width="1322" height="547" alt="image" src="https://github.com/user-attachments/assets/a22c6b49-3edd-4462-99d0-fdf0fc6cfe94" />
+
