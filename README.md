@@ -1,5 +1,7 @@
 # Fonte-de-Dados **Matéria da Fatec 1°Semestre**
-**Atividade1:(Analise de Sorvetes) Este relatório apresenta um gráfico de dispersão que compara a Temperatura no eixo X com a quantidade de sorvetes vendidos no eixo Y . Cada ponto no gráfico representa um dia de vendas e sua respectiva temperatura** 
+**Atividade1:(Analise de Sorvetes) Este relatório apresenta um gráfico de dispersão que compara a Temperatura no eixo X com a quantidade de sorvetes vendidos no eixo Y . Cada ponto no gráfico representa um dia de vendas e sua respectiva temperatura** <img width="757" height="441" alt="image" src="https://github.com/user-attachments/assets/1fe14ceb-df2b-4fc3-85ef-d257dbf64ea7" /><img width="585" height="470" alt="image" src="https://github.com/user-attachments/assets/8a037ad1-4ab1-4aeb-a053-d3a9bbc97593" />
+
+
 #
 **Atividade2:(Atividade.xlsx) Este arquivo apresenta uma tabela com informações de municípios e anos, em que, utilizamos fórmulas como Maximoses,Corresp ,índice e cont valores para respondermos perguntas referente a tabela**
 #
