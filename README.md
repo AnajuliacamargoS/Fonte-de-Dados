@@ -15,3 +15,8 @@
 #
 **Atividade5:(Atividade PB) Este arquivo é um Dashboard interativo sobre o Valor FOB de cada região do Brasil**<img width="1322" height="547" alt="image" src="https://github.com/user-attachments/assets/a22c6b49-3edd-4462-99d0-fdf0fc6cfe94" />
 
+#
+**Atividade6**:(Sp municipal) Foi uma atividade realizada nas primeiras semanas de aula onde aprendemos usar o indice, corresp, maximoses e somase . Essas fórmuals nos auxiliaram a responder perguntas sobre a cadeia produtiva da região e seus valores 
+<img width="1155" height="341" alt="image" src="https://github.com/user-attachments/assets/45dbcb2e-fa75-487b-9ef1-25290088a56c" />
+
+
