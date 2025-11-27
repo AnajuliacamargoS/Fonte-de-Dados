@@ -3,7 +3,8 @@
 
 
 #
-**Atividade2:(Atividade.xlsx) Este arquivo apresenta uma tabela com informações de municípios e anos, em que, utilizamos fórmulas como Maximoses,Corresp ,índice e cont valores para respondermos perguntas referente a tabela**<img width="1180" height="433" alt="image" src="https://github.com/user-attachments/assets/c1ff866f-8553-4a3c-8ddb-6530aeae4e71" />
+**Atividade2:(Atividade.xlsx) Este arquivo apresenta uma tabela com informações de municípios e anos, em que, utilizamos fórmulas como Maximoses,Corresp ,índice e cont valores para respondermos perguntas referente a tabela**<img width="1180" height="433" alt="image" src="https://github.com/user-attachments/assets/c1ff866f-8553-4a3c-8ddb-6530aeae4e71" /> <img width="1207" height="495" alt="image" src="https://github.com/user-attachments/assets/56750e6f-de3c-4f99-ad4f-6fcd2cda027c" />
+
 
 #
 **Atividade3:(Anos de Experiência vs Salário) Este relatório apresenta um gráfico de dispersão que compara os anos de experiência no eixo X com o salário no eixo Y . Cada ponto no gráfico representa o tempo da experiência e seu respectivo salário**<img width="934" height="534" alt="image" src="https://github.com/user-attachments/assets/c4d05595-4a22-4daf-b942-d583a6d00e81" />
